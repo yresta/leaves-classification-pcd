@@ -51,6 +51,7 @@ def main():
 
         Proses identifikasi manual cenderung lambat dan subjektif, sehingga diperlukan sistem otomatis berbasis citra digital. Dengan bantuan teknologi machine learning, proses klasifikasi dapat dilakukan secara cepat dan akurat. 
         Penelitian ini memanfaatkan Grapevine Leaves Image Dataset dari Kaggle untuk membangun sistem klasifikasi berbasis SVM yang menggabungkan ekstraksi fitur dengan Color Moments dan Gray Level Co-occurrence Matrix (GLCM).
+        
         Dataset yang kami gunakan bersumber dari [Kaggle Grapevine Leaves Dataset](https://www.kaggle.com/datasets/muratkokludataset/grapevine-leaves-image-dataset), dengan melakukan klasifikasi terhadap lima kelas varietas daun anggur, yaitu **Ak, Ala_Idris, Buzgulu, Dimnit**, dan **Nazli**.
         """)
 
